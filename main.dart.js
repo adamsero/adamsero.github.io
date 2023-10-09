@@ -77824,7 +77824,7 @@ n=t.j
 m=B.cp
 l=B.a3
 s=3
-return A.aa(p.a.v5("GET",A.aC8("http","54.177.229.118","/spectacles",null),null),$async$tl)
+return A.aa(p.a.v5("GET",A.aC8("https","adamsero-theater-application.onrender.com","/spectacles",null),null),$async$tl)
 case 3:q=o.kX(n.a(m.OA(0,l.eu(0,b.w),null)),new A.UX(),t.WV).dJ(0)
 s=1
 break
